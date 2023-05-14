@@ -74,3 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Page 1 - Home Page
 ### once User lands on the page he will be able to see carousel images, Login and Register buttons inside the Header
+
+![alt text](https://github.com/Badal-pn/Car-selling-website/blob/master/src/images/page1.jpg?raw=true)
