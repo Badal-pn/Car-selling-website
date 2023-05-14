@@ -73,6 +73,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### 'Project Screenshots'
 
 ### Page 1 - Home Page
-### once User lands on the page he will be able to see carousel images, Login and Register buttons inside the Header
+### once User lands on the page he will be able to see carousel images along with About Us, Contact Us links. Login and Register buttons inside the Header
 
 ![alt text](https://github.com/Badal-pn/Car-selling-website/blob/master/src/images/projSS/page1.jpg?raw=true)
+
+### Page 2 - About Us
+### User will be able to click on About Us from Header and navigate to About Us page. About Us Page contains random text.
+
+![alt text](https://github.com/Badal-pn/Car-selling-website/blob/master/src/images/projSS/page2.jpg?raw=true)
+
+### Page 3 - Contact Us
+### Contact Us page includes fields for user information which can be later used to connect with user. User is also given option to enter feedback.
+
+![alt text](https://github.com/Badal-pn/Car-selling-website/blob/master/src/images/projSS/page3.jpg?raw=true)
+
+### Page 4 - Login Page
+### User will be able to login to website with username and password.
+
+![alt text](https://github.com/Badal-pn/Car-selling-website/blob/master/src/images/projSS/page4.jpg?raw=true)
+
+### Page 5 - Registeration Page
+### User will be able to Register to website with Basic user details.
+
+![alt text](https://github.com/Badal-pn/Car-selling-website/blob/master/src/images/projSS/page5.jpg?raw=true)
+
+

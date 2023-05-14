@@ -57,7 +57,7 @@ const UserLoginForm = () => {
           className="card form-card border-color custom-bg"
           style={{ width: "25rem" }}
         >
-          <div className="card-header bg-color text-center custom-bg-text">
+          <div className="card-header bg-color text-center custom-bg-text br-r">
             <h4 className="card-title">User Login</h4>
           </div>
           <div className="card-body">
