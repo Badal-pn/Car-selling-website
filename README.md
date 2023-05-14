@@ -95,6 +95,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Page 5 - Registeration Page
 ### User will be able to Register to website with Basic user details.
 
+### Part 1
 ![alt text](https://github.com/Badal-pn/Car-selling-website/blob/master/src/images/projSS/page5.jpg?raw=true)
 
-
+### Part 2
+![alt text](https://github.com/Badal-pn/Car-selling-website/blob/master/src/images/projSS/page6.jpg?raw=true)
